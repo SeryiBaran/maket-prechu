@@ -1,7 +1,5 @@
 # maket--prechu
 
-Here I'm learning HTML+CSS+JS.
-
 ## How to start development server
 
 1. Make sure that the node.js are installed and working;
