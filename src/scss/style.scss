@@ -2,9 +2,12 @@
 
 #app {
   font-family: 'Open Sans', Avenir, Helvetica, Arial, sans-serif;
-  a {
-    color: inherit;
-  }
+}
+
+a,
+a:visited,
+a:active {
+  color: inherit;
 }
 
 .container {
