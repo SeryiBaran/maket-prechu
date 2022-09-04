@@ -1,4 +1,4 @@
-# maket--prechu
+# maket--prechu (адаптива не будет)
 
 ## How to start development server
 
