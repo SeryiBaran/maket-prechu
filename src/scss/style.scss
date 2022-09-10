@@ -102,25 +102,25 @@ header {
     display: flex;
     align-items: center;
     max-width: 89.8rem;
+    height: 48.2rem;
     margin: 0 auto;
     padding: 3.8rem 2.4rem 0;
     color: white;
-    height: 48.2rem;
     @media (max-width: 800px) {
       height: 33.5rem;
     }
   }
   .slide-img {
     display: block;
-    max-height: 100%;
     max-width: 100%;
     height: auto;
+    max-height: 100%;
     object-fit: contain;
   }
   .slide-text {
-    margin-left: 10%;
-    max-width: 40rem;
     width: 100%;
+    max-width: 40rem;
+    margin-left: 10%;
     h3,
     span {
       font-weight: 300;
@@ -174,10 +174,10 @@ header {
     text-align: center;
     @media (max-width: 800px) {
       flex-direction: row;
-      text-align: left;
-      border-bottom: 1px solid #cccccc;
       justify-content: center;
       padding: 1rem;
+      border-bottom: 1px solid #cccccc;
+      text-align: left;
     }
     .img-wrapper {
       display: flex;
